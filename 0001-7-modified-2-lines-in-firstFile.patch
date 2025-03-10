@@ -1,0 +1,26 @@
+From a609bb6a499c0550ff28464796d079220105e9a2 Mon Sep 17 00:00:00 2001
+From: Felipe Munevar N <felipemunevarn@gmail.com>
+Date: Sun, 9 Mar 2025 23:54:07 -0300
+Subject: [PATCH] 7- modified 2 lines in firstFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index d0b0aed..53a9b80 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -4,7 +4,7 @@
+ 4. f
+ 5. f
+ 6. s
+-7. s
+-8. e
++7. s : 1st changed
++8. e : 2nd changed
+ 9. n
+ 10. t
+-- 
+2.43.0.windows.1
+
