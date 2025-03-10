@@ -1,5 +1,5 @@
-1. f
-2. s
+1. f - 1st line changed in clone repo
+2. s - 2nd line changed in cline repo
 3. t
 4. f
 5. f
